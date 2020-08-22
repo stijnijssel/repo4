@@ -1,1 +1,9 @@
 
+cat > poolMetaData.json << EOF
+{
+"name": "Nautilus Shell",
+"description": "Shell Staking",
+"ticker": "SHELL",
+"homepage": "https://www.shellstaking.com/"
+}
+EOF
